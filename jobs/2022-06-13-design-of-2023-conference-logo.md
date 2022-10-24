@@ -1,6 +1,6 @@
 ---
 _id: 75e83060-eb1e-11ec-8510-9bc7dac210ad
-status: searching
+status: closed
 date_posted: '2022-06-13'
 layout: jobs
 organization: Grazer Linuxtage
